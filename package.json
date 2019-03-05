@@ -1,0 +1,24 @@
+{
+  "name": "chess-app",
+  "version": "1.0.0",
+  "description": "js-powered chess engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevincfisher/chess-app.git"
+  },
+  "keywords": [
+    "chess",
+    "node",
+    "js"
+  ],
+  "author": "Kevin Fisher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevincfisher/chess-app/issues"
+  },
+  "homepage": "https://github.com/kevincfisher/chess-app#readme"
+}
