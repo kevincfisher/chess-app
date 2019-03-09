@@ -18,7 +18,7 @@ rules:[
         options: ["preset-es2017"]
 
     }
-]
+    ]
     },
     devServer: {
         contentBase: path.join(__dirname, 'dist'),
