@@ -23,6 +23,8 @@
   "homepage": "https://github.com/kevincfisher/chess-app#readme",
   "dependencies": {
     "chess.js": "^0.10.2",
-    "chessboardjs": "0.0.1"
+    "chessboardjs": "0.0.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
   }
 }
